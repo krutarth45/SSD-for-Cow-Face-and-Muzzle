@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'CowFace'
+}
+item {
+    id: 2
+    name: 'muzzle'
+}
